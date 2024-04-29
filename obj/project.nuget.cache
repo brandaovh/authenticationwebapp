@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WnZzN0XdYGpg/jWNfmMAK3+gqZ7FjhqS5+MoHJ+NnEn78xt62n0w2T5Qgt7SkhMpKxBzxxgF9VOzdUEAvhtcXA==",
+  "dgSpecHash": "P2iXA3KO6ePL/OGXRGdAZ2W0GgT/YTkQwlyxurTQWhVGa6U/2cVbeAWcddUryqmOy7yhxGAKHhAGrNdh0wWyBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Victor\\Documents\\Georgian\\BDAT1001\\ContactManager\\ContactManager.csproj",
+  "projectFilePath": "C:\\Users\\Victor\\Documents\\GitHub\\authenticationwebapp\\ContactManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Victor\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Victor\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

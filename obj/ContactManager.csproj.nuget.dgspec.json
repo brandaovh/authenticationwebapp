@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor\\Documents\\Georgian\\BDAT1001\\ContactManager\\ContactManager.csproj": {}
+    "C:\\Users\\Victor\\Documents\\GitHub\\authenticationwebapp\\ContactManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor\\Documents\\Georgian\\BDAT1001\\ContactManager\\ContactManager.csproj": {
+    "C:\\Users\\Victor\\Documents\\GitHub\\authenticationwebapp\\ContactManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\Documents\\Georgian\\BDAT1001\\ContactManager\\ContactManager.csproj",
+        "projectUniqueName": "C:\\Users\\Victor\\Documents\\GitHub\\authenticationwebapp\\ContactManager.csproj",
         "projectName": "ContactManager",
-        "projectPath": "C:\\Users\\Victor\\Documents\\Georgian\\BDAT1001\\ContactManager\\ContactManager.csproj",
+        "projectPath": "C:\\Users\\Victor\\Documents\\GitHub\\authenticationwebapp\\ContactManager.csproj",
         "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor\\Documents\\Georgian\\BDAT1001\\ContactManager\\obj\\",
+        "outputPath": "C:\\Users\\Victor\\Documents\\GitHub\\authenticationwebapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
